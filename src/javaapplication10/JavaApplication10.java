@@ -10,7 +10,8 @@ package javaapplication10;
  * @author SANDRO
  */
 public class JavaApplication10 {
-
+     int a;
+     int b;
     /**
      * @param args the command line arguments
      */
